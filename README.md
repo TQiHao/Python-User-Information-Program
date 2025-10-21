@@ -17,12 +17,10 @@ It then displays all the collected information in a formatted output.
 - Formatted output display
 - Simple and educational code structure
 
-## How to Run
-```bash
 python user_info.py
 
 ## Files
-- `user_info.py` - Main program file
+- `Toh Qi Hao_Lab_1.py` - Main program file
 
 ## Technologies Used
 - Python 3
@@ -31,3 +29,25 @@ python user_info.py
 
 ## Author
 Toh Qi Hao
+
+## How to Run
+```bash
+Enter your name: John Doe
+Name: John Doe
+Enter your age: 25
+Age: 25
+Enter your gender: Male
+Gender: Male
+Enter your 1st hobby: Reading
+Hobby 1: Reading
+Enter your 2nd hobby: Swimming
+Hobby 2: Swimming
+
+My Information
+    Full Name: John Doe
+    Age: 25
+    Gender: Male
+    Hobby 1: Reading
+    Hobby 2: Swimming
+    Thank you for reading my information :)
+
